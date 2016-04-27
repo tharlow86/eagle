@@ -1,0 +1,25 @@
+Todd Harlow
+ECE 373, Spring 2016
+Homework 3
+
+
+
+1. Atomic Motherboards
+
+  a. What is the audio device?  
+
+         Realtek Audio Codec ALC892
+
+  b. What device in the GPIO connected to?
+  
+         Super I/O Winbond W83627DHG-P
+
+  c. How many network (LAN) devcies are on the motherboard and what are they?
+
+         Two devices: LAN1 = Intel 82567V, LAN2 = Intel 82583V
+
+  d. How many total serial ports does the box support, inside and out?
+
+         6 total:  3x Internal RS-232, 2x External RS-232, 1x External RS-XXX
+         
+         (14 total if internal and external USB ports are also included)
